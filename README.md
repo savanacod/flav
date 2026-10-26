@@ -15,3 +15,7 @@ How I built it:
 
 How to run it:
 - The demo link/live server should work, but I am figuring out another solution, because my deployment isn't currently working. Will troubleshoot.
+- Click on the "Welcome to Ooo" on the first page to be directed to the list of locations
+- Once there, there are 3 locations on the first page and 2 on the second page
+- To get to the 2nd page, click the "farther?" button at the bottom
+- To explore a certain location, click on its title.
