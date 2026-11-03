@@ -1,0 +1,82 @@
+body {
+    background-image: url(https://scontent-ord5-2.xx.fbcdn.net/v/t1.6435-9/118284837_692146828041647_9032241907939773800_n.png?stp=dst-jpg_tt6&cstp=mx1920x1080&ctp=s1920x1080&_nc_cat=110&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=Xf_aLoAdRcIQ7kNvwHYBRsH&_nc_oc=AdrsxukUcBXccR0S-RNVhVIE81FH1GrPNgKV3TTCHm5ITVa1ax3-Ysxh5v-M47JWT4xuoHK4P_AEVr38tYbqWRWI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=0AR0RMGRA1Mkh4x8HwTEHg&_nc_ss=7b289&oh=00_AQPFP7yXBIPeuzoB3-PwA_A9Ja92gBCyybIj20SFeOWovw&oe=6B049153);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+h1 {
+    font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+    font-size: 60px;
+    text-align: center;
+}
+
+.images img{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px;
+    box-sizing: border-box;
+    max-width: 100%;
+    height: auto;
+   
+}
+
+.location-row {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+    width: 100%;
+    
+}
+
+.location-row img {
+    width: 40%;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+
+.location-text a {
+    text-decoration: none;
+}
+
+.location-text h2 {
+     
+    color: red;
+     font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+
+
+}
+
+.location-text p {
+    color: white;
+      font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+}
+
+.images a {
+
+    text-decoration: none;
+}
+
+

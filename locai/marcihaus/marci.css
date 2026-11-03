@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-banner {
+    width: 100% ;
+    height: 100vh ;
+    background-image: url(https://static.wikia.nocookie.net/adventuretimewithfinnandjake/images/0/0a/5062247589_e0030fddd8.jpg/revision/latest/scale-to-width-down/1000?cb=20111022014034);
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+    text-align: center;
+ 
+    position: relative;
+    overflow: hidden;
+ 
+
+}
+.hero-content h1 {
+    position: absolute;
+    
+    bottom: -40px;
+    left: 0%;
+    
+  
+    width: 100%;
+    color: #fffb59;
+    font-size: 60px; 
+    font-weight: bold;
+    -webkit-text-stroke: 4px #fe9041;
+    -webkit-text-fill-color: #fffb59;
+      font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+   
+}
+.hero-content p {
+        position: absolute;
+        bottom: 50px;
+        left: 450px;
+       color: white;
+      font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  width: 600px;
+  border: 5px solid #275665;
+  background-color: #f5acba;
+  padding: 15px;
+  border-radius: 13px;
+}

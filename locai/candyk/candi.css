@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-banner {
+    width: 100% ;
+    height: 100vh ;
+    background-image: url(https://i.pinimg.com/1200x/67/90/ff/6790ff052bfd0c8a6a873f621c12d901.jpg) ;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+    text-align: center;
+  
+    position: relative;
+    overflow: hidden;
+ 
+
+}
+.hero-content h1 {
+    position: absolute;
+    
+    bottom: -40px;
+    left: -29%;
+    
+  
+    width: 100%;
+    color: #fffb59;
+    font-size: 60px; 
+    font-weight: bold;
+    -webkit-text-stroke: 4px #fe9041;
+    -webkit-text-fill-color: #fffb59;
+      font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+   
+}
+
+.hero-content p {
+        position: absolute;
+        bottom: 50px;
+       color: white;
+      font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  width: 600px;
+  border: 5px solid #ffd828;
+  background-color: #ff57d0;
+  padding: 15px;
+  border-radius: 13px;
+}
+.hero-content h2 {
+    position: absolute;
+    
+    bottom: 30px;
+    left: 550px;
+    
+    
+   
+    width: 100%;
+    color: #fffb59;
+    font-size: 60px; 
+    font-weight: bold;
+    -webkit-text-stroke: 4px #fe9041;
+    -webkit-text-fill-color: #fffb59;
+      font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+   
+}
+.hero-content a {
+    
+    text-decoration: none;
+}

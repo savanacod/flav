@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hero-banner {
+    width: 100% ;
+    height: 100vh ;
+    background-image: url(https://file-paa.zoom.us/TQtAEDyrT0KVpSt5QhKUCg/MS4zLlZB4ijs8xPmhtLcpRrkk2kk8j6aGA62ckKwYQCBk5xc/Finn%20and%20Jake%E2%80%99s%20Treehouse%20Bedroom.jpeg) ;
+    background-repeat: no-repeat ;
+    background-size: cover ;
+    background-position: center;
+    text-align: center;
+  
+    position: relative;
+    overflow: hidden;
+ 
+
+}
+
+.hero-content h1 {
+    position: absolute;
+    
+    bottom: -30px;
+    
+    
+   
+    width: 100%;
+    color: #fffb59;
+    font-size: 60px; 
+    font-weight: bold;
+    -webkit-text-stroke: 4px #fe9041;
+    -webkit-text-fill-color: #fffb59;
+      font-family: "Nabla", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "EDPT" 100,
+    "EHLT" 12;
+   
+}
+.hero-content p {
+        position: absolute;
+        bottom: 50px;
+        left: 450px;
+       color: white;
+      font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  width: 600px;
+  border: 5px solid #534526;
+  background-color: #bac777;
+  padding: 15px;
+  border-radius: 13px;
+}
